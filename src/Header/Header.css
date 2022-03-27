@@ -1,0 +1,10 @@
+.Header-site-header {
+    font-family: 'Al Bayan', sans-serif;
+    border: 1px solid darkslategrey;
+    padding: 10px;
+    margin: 5px;
+}
+
+.Header-site-header{
+    grid-area: h;
+}
